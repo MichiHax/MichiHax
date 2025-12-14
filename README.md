@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi! :3 🐱
 
-<!--
-**MichiHax/MichiHax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a YouTuber that loves cats and is currently making Friday Night Funkin' content.
+I used to publish Geometry Dash and Minecraft Cheating content but i don't do that anymore.
 
-Here are some ideas to get you started:
+Main youtube channel (I don't post anymore): https://www.youtube.com/@MichiHax
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Second youtube channel (Doing fnf stuff): https://www.youtube.com/@MichiHax2
+
+Despite me being on GitHub I don't know how to code. Yes you red that right. I am on GitHub because its where the mayority of FNF Engines are.
+
+I mainly use JS Engine by @JordanSantiagoYT (https://github.com/JordanSantiagoYT/FNF-JS-Engine)
+
+And H-Slice engine by @HRK-EXEX (https://github.com/HRK-EXEX/H-Slice)
